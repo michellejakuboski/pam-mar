@@ -20,7 +20,7 @@ export default function App() {
             title: 'Início',
             headerStyle: {
               backgroundColor: 'white',
-              marginTop: 0,
+              marginTop:,
             },
             headerTitleStyle: {
               fontSize: 20,

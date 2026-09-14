@@ -7,7 +7,7 @@ function HomeScreen() {
   return (
     <View>
       <ImageBackground
-        source={require('../assets/img/Home.webp')}
+        source={require('../assets/img/home3.jpeg')}
         style={styles.background}
         resizeMode="cover"
       >
@@ -61,8 +61,8 @@ function HomeScreen() {
 
 const styles = StyleSheet.create({
   background: {
-    width: 335,
-    height: 460,
+    width: 500,
+    height: 600,
   },
 
   botoes: {
